@@ -1,6 +1,6 @@
 # NiaHud
-![screen](https://imgur.com/hSP6XFU)
-[full album](https://imgur.com/a/XFSayhZ)
+[album](https://imgur.com/a/XFSayhZ)
+Minimal tf2 hud created out of love for my favorite character from my favorite anime
 # Credits:
 ### Hypnotize - LightHUD
 ### Jötunn - KBNHud (Payload UI)
